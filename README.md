@@ -28,12 +28,6 @@ https://www.figma.com/design/5USEnegKMFgQEpQUhUQsxs/EzyMetrics?node-id=0-1&t=Yv4
 
 ## Getting Started
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ezy-metrics-dashboard.git
-   cd ezy-metrics-dashboard
 
 ### Install dependencies:
 npm install
